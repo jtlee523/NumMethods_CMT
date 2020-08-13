@@ -14,9 +14,13 @@ My end goal is to build fluency using ITensors in Julia, but beforehand, I am lo
 1) "The density-matrix renormalization group in the age of matrix product states" https://arxiv.org/pdf/1008.3477.pdf
 2) European School on Tensor Networks: http://quantumtensor.pks.mpg.de/index.php/schools/
 
+I am using Julia and ITensors, which can be found at this link: http://itensor.org/index.html
 
 
 ### Notebooks
 -ITensor
 
 --Ising Model example (using autoMPO() and MPO() )
+
+--Measurements within an MPS
+
